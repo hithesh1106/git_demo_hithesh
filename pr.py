@@ -1,1 +1,1 @@
-print("helo. welcome to GitHub")
+print("hello. welcome to GitHub")
